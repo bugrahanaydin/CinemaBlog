@@ -1,0 +1,16 @@
+.login {
+  width: 100%;
+  height: 50vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.loginForm {
+  display: flex;
+  flex-direction: column;
+}
+.txtField {
+  background-color: azure;
+  color: azure;
+  border-radius: 5px;
+}
